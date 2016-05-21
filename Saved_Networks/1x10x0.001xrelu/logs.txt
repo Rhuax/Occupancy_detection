@@ -1,0 +1,4 @@
+Accuracy : 0.934875
+ Precision: 0.764085564139
+ Recall :0.997609758469
+ Specificity : 0.918263908214
